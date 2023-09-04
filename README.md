@@ -37,11 +37,13 @@ Sistema Academico
     
    ```bash
    php artisan migrate
+   php artisan db:seed
 
 7. Inicia el servidor de desarrollo:
     
     ```bash
-    php artisan serve
+   npm run dev
+   php artisan serve
 
 8. Accede a tu aplicación en http://localhost:8000 
 
