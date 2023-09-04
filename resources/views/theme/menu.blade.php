@@ -19,7 +19,7 @@
                 </li>
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
+                        <i class="icon-User"><span class="path1"></span><span class="path2"></span></i>
                         <span>Alumnos</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
@@ -47,7 +47,7 @@
                 <!-- Menú para Profesores -->
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
+                        <i class="icon-File"><span class="path1"></span><span class="path2"></span><span class="path3"></span></i>
                         <span>Profesores</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
@@ -69,7 +69,7 @@
                 <!-- Menú para Cursos -->
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
+                        <i class="icon-Book-open"><span class="path1"></span><span class="path2"></span></i>
                         <span>Cursos</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
@@ -91,7 +91,7 @@
                 <!-- Menú para Evaluación -->
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
+                        <i class="icon-Write"><span class="path1"></span><span class="path2"></span></i>
                         <span>Evaluación</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
@@ -119,8 +119,8 @@
                 <!-- Menú para Administración Escolar -->
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
-                        <span>Administración Escolar</span>
+                        <i class="icon-Library"><span class="path1"></span><span class="path2"></span></i>
+                        <span>Administración</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
                         </span>
@@ -147,7 +147,7 @@
                 <!-- Menú para Reportes -->
                 <li class="treeview">
                     <a href="#">
-                        <i span class="icon-Layout-grid"><span class="path1"></span><span class="path2"></span></i>
+                        <i class="icon-Chart-pie"><span class="path1"></span><span class="path2"></span></i>
                         <span>Reportes</span>
                         <span class="pull-right-container">
                             <i class="fa fa-angle-right pull-right"></i>
