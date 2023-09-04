@@ -18,23 +18,29 @@ Sistema Academico
 
 2. Navega al directorio del proyecto:
 
+   ```bash
    cd tuproyecto
 
 3. Instala las dependencias del proyecto utilizando Composer:
 
-    composer install
+   ```bash
+   composer install
 
 4. Copia el archivo .env.example y renómbralo a .env. Luego, configura tu archivo .env con la información de tu base de datos y otras configuraciones relevantes.
 
 5. Genera una nueva clave de aplicación:
 
-    php artisan key:generate
+   ```bash
+   php artisan key:generate
 
 6. Ejecuta las migraciones de la base de datos para crear las tablas necesarias:
     
-    php artisan migrate
+   ```bash
+   php artisan migrate
 
 7. Inicia el servidor de desarrollo:
+    
+    ```bash
     php artisan serve
 
 8. Accede a tu aplicación en http://localhost:8000 
